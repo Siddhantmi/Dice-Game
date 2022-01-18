@@ -31,14 +31,16 @@ img{
  margin: 3rem;
 }
 
-
-
-
-
 button{
     color:white;
     background-color:tomato;
     font-size: 2rem;
     margin-top: 2.5rem;
     border-radius: 0.6rem;
+}
+
+#end{
+    color: rgb(228, 165, 49);
+    font-size: 1rem;
+    
 }
