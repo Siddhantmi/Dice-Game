@@ -1,0 +1,44 @@
+*{
+    background-color: rgb(19, 82, 77);
+    text-align: center;
+    color: rgb(235, 238, 238);
+}
+
+h1{
+    font-size: 4rem;
+}
+
+li{
+   display: inline; 
+justify-content: space-evenly;
+margin: 1.3rem;
+}
+
+p{
+   display: inline;
+   font-size: 3.3rem;
+   margin: 4rem;
+}
+
+
+h3{
+    font-size: 4rem;
+}
+
+img{
+    height: 170px;
+    width: 170px;
+ margin: 3rem;
+}
+
+
+
+
+
+button{
+    color:white;
+    background-color:tomato;
+    font-size: 2rem;
+    margin-top: 2.5rem;
+    border-radius: 0.6rem;
+}
